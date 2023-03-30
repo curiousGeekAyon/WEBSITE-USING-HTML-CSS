@@ -1,0 +1,9 @@
+*{
+    margin:0;
+    border:0;
+}
+#header{
+          height: 97vw;
+          border:10px solid red;
+          background: linear-gradient(rgba(0, 0, 0, 0.512),rgba(0, 0, 0, 0.326)),url(../img/'); 
+}
